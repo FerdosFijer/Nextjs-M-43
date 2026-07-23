@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "brand": "Logitech",
+      "category": "Electronics",
+      "price": 25.99,
+      "stock": 50,
+      "rating": 4.5,
+      "image": "https://i.ibb.co/4fJ6RkX/wireless-mouse.jpg",
+      "description": "Ergonomic wireless mouse with USB receiver."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical board",
+      "brand": "Redragon",
+      "category": "Electronics",
+      "price": 59.99,
+      "stock": 30,
+      "rating": 4.7,
+      "image": "https://i.ibb.co/fN1XJQ8/mechanical-keyboard.jpg",
+      "description": "RGB backlit mechanical gaming keyboard."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "brand": "Nike",
+      "category": "Fashion",
+      "price": 89.99,
+      "stock": 20,
+      "rating": 4.8,
+      "image": "https://i.ibb.co/qC8JtqW/running-shoes.jpg",
+      "description": "Lightweight running shoes for everyday training."
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 199.99,
+      "stock": 15,
+      "rating": 4.6,
+      "image": "https://i.ibb.co/VL2w5YB/smart-watch.jpg",
+      "description": "Fitness tracking smartwatch with AMOLED display."
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "brand": "American Tourister",
+      "category": "Accessories",
+      "price": 39.99,
+      "stock": 40,
+      "rating": 4.4,
+      "image": "https://i.ibb.co/zNG0vBg/backpack.jpg",
+      "description": "Durable backpack with multiple compartments."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self Help",
+      "price": 18.99,
+      "rating": 4.9,
+      "stock": 25,
+      "publishedYear": 2018,
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 14.99,
+      "rating": 4.8,
+      "stock": 30,
+      "publishedYear": 1988,
+      "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+      "description": "A novel about following your dreams and listening to your heart."
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 35.5,
+      "rating": 4.9,
+      "stock": 15,
+      "publishedYear": 2008,
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "description": "A handbook of agile software craftsmanship."
+    },
+    {
+      "id": 4,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 16.75,
+      "rating": 4.8,
+      "stock": 20,
+      "publishedYear": 2020,
+      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+      "description": "Timeless lessons on wealth, greed, and happiness."
+    },
+    {
+      "id": 5,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 19.99,
+      "rating": 4.7,
+      "stock": 18,
+      "publishedYear": 2016,
+      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+      "description": "Rules for focused success in a distracted world."
+    },
+    {
+      "id": 6,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "category": "Programming",
+      "price": 42.99,
+      "rating": 4.9,
+      "stock": 12,
+      "publishedYear": 1999,
+      "image": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg",
+      "description": "Classic programming practices for modern developers."
+    },
+    {
+      "id": 7,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 15.99,
+      "rating": 4.7,
+      "stock": 28,
+      "publishedYear": 1997,
+      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
+      "description": "What the rich teach their kids about money."
+    },
+    {
+      "id": 8,
+      "title": "Ikigai",
+      "author": "Héctor García",
+      "category": "Self Help",
+      "price": 17.5,
+      "rating": 4.6,
+      "stock": 22,
+      "publishedYear": 2016,
+      "image": "https://covers.openlibrary.org/b/isbn/9780143130727-L.jpg",
+      "description": "The Japanese secret to a long and happy life."
+    },
+    {
+      "id": 9,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J. K. Rowling",
+      "category": "Fantasy",
+      "price": 21.99,
+      "rating": 4.9,
+      "stock": 35,
+      "publishedYear": 1997,
+      "image": "https://covers.openlibrary.org/b/isbn/9780590353427-L.jpg",
+      "description": "The first book in the Harry Potter series."
+    },
+    {
+      "id": 10,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "Motivation",
+      "price": 13.99,
+      "rating": 4.6,
+      "stock": 40,
+      "publishedYear": 1937,
+      "image": "https://covers.openlibrary.org/b/isbn/9781585424337-L.jpg",
+      "description": "A classic book on success and personal achievement."
+    }
+  ]
+}
